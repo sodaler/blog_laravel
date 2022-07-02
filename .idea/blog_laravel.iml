@@ -118,6 +118,11 @@
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/vlucas/phpdotenv" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/facade/ignition-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/laravel/sail" />
+      <excludeFolder url="file://$MODULE_DIR$/blog/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/blog/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/blog/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/blog/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/blog/vendor/psr/cache" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
