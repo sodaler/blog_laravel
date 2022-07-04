@@ -9,6 +9,13 @@
                     <div class="col-sm-6">
                         <h1 class="m-0">Редактирование пользователя</h1>
                     </div><!-- /.col -->
+                    <div class="col-sm-6">
+                        <ol class="breadcrumb float-sm-right">
+                            <li class="breadcrumb-item"><a href="{{ route('admin.main.index') }}">Главная</a></li>
+                            <li class="breadcrumb-item"><a href="{{ route('admin.user.index') }}">Пользователи</a></li>
+                            <li class="breadcrumb-item active">Редактирование пользователя</li>
+                        </ol>
+                    </div><!-- /.col -->
                 </div><!-- /.row -->
             </div><!-- /.container-fluid -->
         </div>
