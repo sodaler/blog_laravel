@@ -117,6 +117,7 @@
       <path value="$PROJECT_DIR$/blog/vendor/doctrine/dbal" />
       <path value="$PROJECT_DIR$/blog/vendor/doctrine/cache" />
       <path value="$PROJECT_DIR$/blog/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/blog/vendor/laravel/telescope" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
